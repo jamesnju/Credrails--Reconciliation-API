@@ -1,0 +1,7 @@
+transaction_id,account_number,amount,transaction_date,description
+1001,12345678,150.0,2023-05-01,Online Purchase
+1002,87654321,89.99,2023-05-02,Grocery Store
+1003,12345678,25.5,2023-05-03,ATM Withdrawal
+1004,55556666,199.99,2023-05-04,Electronics Store
+1005,11223344,45.0,2023-05-05,Restaurant
+1006,99998888,12.99,2023-05-06,Streaming Service
